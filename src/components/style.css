@@ -1,0 +1,52 @@
+body
+{
+    background: #001f3f !important;
+}
+
+.App
+{
+    margin-top: 120px;
+}
+
+.container
+{
+    max-width: 1000px !important;
+    color: #fff;
+}
+
+.reminder-title
+{
+    margin-bottom: 40px;
+}
+
+.form-control
+{
+    margin-bottom: 25px;
+}
+
+.errStyle
+{
+    padding: 0;
+    margin: 0;
+    color: #FF4136;
+    margin: 10px 0 20px;
+}
+
+.list-group-item
+{
+    padding: 20px;
+    margin: 10px 0;
+    line-height: 36px;
+    font-weight: 450;
+    overflow: hidden;
+}
+
+.list-group-item > div
+{
+    float: right;
+}
+
+.clear
+{
+    margin-bottom: 40px;
+}
